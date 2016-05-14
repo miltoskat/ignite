@@ -74,7 +74,7 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem; 
-  font-family: Helvetica;}
+  font-family: Helvetica, "Times New Roman";}
 
 @media screen and (min-width: 64em) {
   .project-name {
