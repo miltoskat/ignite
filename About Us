@@ -18,9 +18,9 @@
 
     <section class="main-content">
       <h3>
-<a id="who-are-we" class="anchor" href="#who-are-we" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Who are we</h3>
+<a id="ignite" class="anchor" href="#ignite" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Ignite.</h3>
 
-<p>We are some geeks, lol</p>
+<p>Ignite is a fully anonymous <strong>end-to-end</strong> encrypted online platform based on the idea of the <a href="https://en.wikipedia.org/wiki/Off-the-Record_Messaging">OTR Messaging Platform</a>. Initialy we started with this idea because we saw the impact the FBI vs Apple legal case had on cryptography as a whole and we saw the desperate need the common person today have for privacy.</p>
 
 <h3>
 <a id="no-installation-needed" class="anchor" href="#no-installation-needed" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>No Installation Needed</h3>
