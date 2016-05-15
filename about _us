@@ -13,7 +13,7 @@
     <section class="page-header">
       <h1 class="project-name">Ignite</h1>
       <h2 class="project-tagline"></h2>
-      <a href="" class="btn">Get Started</a>
+      <a href="index.html" class="btn">Home</a>
     </section>
 
     <section class="main-content">
@@ -21,7 +21,7 @@
 <a id="who-are-we" class="anchor" href="#who-are-we" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Who are we</h3>
 
 <p>We are some geeks, lol</p>
-      
+
 <h3>
 <a id="no-installation-needed" class="anchor" href="#no-installation-needed" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>No Installation Needed</h3>
 
