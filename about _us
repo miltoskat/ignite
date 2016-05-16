@@ -13,39 +13,37 @@
     <section class="page-header">
       <h1 class="project-name">Ignite</h1>
       <h2 class="project-tagline"></h2>
-      <a class="btn inactiveLink">Get started</a>
-      <a href="about_us.html" class="btn">About us</a>
-      <a href="" class="btn">Contact us</a>
+      <a href="index.html" class="btn">Home</a>
     </section>
 
     <section class="main-content">
-      <h2>
-<a id="ignite" class="anchor" href="#ignite" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Ignite.</h2>
+<h3>
+<a id="who-are-we" class="anchor" href="#who-are-we" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Who are we</h3>
 
-<p>Ignite is a fully anonymous <strong>end-to-end</strong> encrypted online platform based on the idea of the <a href="https://en.wikipedia.org/wiki/Off-the-Record_Messaging">OTR Messaging Platform</a>. Initialy we started with this idea because we saw the impact the FBI vs Apple legal case had on cryptography as a whole and we saw the desperate need the common person today have for privacy.</p>
+<p>We are some geeks, lol</p>
 
-<h2>
-<a id="no-installation-needed" class="anchor" href="#no-installation-needed" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>No Installation Needed</h2>
+<h3>
+<a id="no-installation-needed" class="anchor" href="#no-installation-needed" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>No Installation Needed</h3>
 
 <p>Built on free online platforms that support every browser.</p>
 
-<h2>
-<a id="based-on-the-safest-encryption-methods" class="anchor" href="#based-on-the-safest-encryption-methods" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Based on the safest Encryption methods</h2>
+<h3>
+<a id="based-on-the-safest-encryption-methods" class="anchor" href="#based-on-the-safest-encryption-methods" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Based on the safest Encryption methods</h3>
 
 <p>Ignite utilises a combination of symmetric and asymmetric cryptography in order to achieve maximum security,it is based on a combination of AES symmetric-key algorithm with 128 bits key length, the Diffie–Hellman key exchange with 1536 bits group size, and the SHA-1 hash function.</p>
 
-<h2>
-<a id="file-sharing" class="anchor" href="#file-sharing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>File-Sharing</h2>
+<h3>
+<a id="file-sharing" class="anchor" href="#file-sharing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>File-Sharing</h3>
 
 <p>Ignite let's you create a timed peer-to-peer link in order to share your files with friends safely and private. After the file has been downloaded there will be a small time frame in which the user will be able to initialise another install before the link gets deleted for ever from our servers</p>
 
-<h2>
-<a id="finding-people" class="anchor" href="#finding-people" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Finding People</h2>
+<h3>
+<a id="finding-people" class="anchor" href="#finding-people" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Finding People</h3>
 
 <p>There are 2 ways to find someone to communicate either by scanning their personal QR code or by using their personal generated hash.</p>
 
-<h2>
-<a id="pricing" class="anchor" href="#pricing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Pricing</h2>
+<h3>
+<a id="pricing" class="anchor" href="#pricing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Pricing</h3>
 
 <p>Ignite is <strong>free</strong>, our funding comes from <a href="https://www.brave.com">Brave</a> approved advertisements.</p>
 
